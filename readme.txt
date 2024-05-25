@@ -8,5 +8,3 @@
 安装wordpress安装插件将打开wordpress_mouse.zip压缩包上传
 <br/>
 插件详情地址：<a href="https://blog.itzhiyin.com/archives/205.html" target="_blank">https://blog.itzhiyin.com/archives/205.html</a>
-
-* 
